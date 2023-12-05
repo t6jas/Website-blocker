@@ -20,4 +20,4 @@ This Python script allows you to block access to specified websites by modifying
 3. Run the script with appropriate permissions to modify the hosts file.
 
 ```bash
-python website_blocker.py
+python websiteblocker.py
